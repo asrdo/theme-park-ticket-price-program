@@ -2,9 +2,9 @@
 
 - Procedural programming code
 
-*This program calculates the ticket prices for a Malaysian theme park.
+*This program calculates the ticket prices for a Malaysian theme park.*
 
-*The program adheres to the following pricing system:
+*The program adheres to the following pricing system:*
 
 - Ticket Types:
   T: Theme Park
