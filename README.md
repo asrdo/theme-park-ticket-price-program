@@ -15,25 +15,25 @@ C: Combo (Theme Park + Water Park + Sea Life)
 
 _
 *Per ticket*
- 
+
 _
 W: Weekdays(Mon-Fri):
 
   T: RM 90
 
   C: RM 201
-   
-_  
+
+_
 OR
-  
-_   
+
+_
 O: Others(Sat-Sun)/Holidays:
 
   T: RM 112
 
   C: RM 223
 
-_ 
+_
 Additional People:
 
   T: RM 175
