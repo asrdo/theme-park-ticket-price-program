@@ -6,13 +6,16 @@
 
 *The program adheres to the following pricing system:*
 
+
 Ticket Types:
 
 T: Theme Park
   
 C: Combo (Theme Park + Water Park + Sea Life)
 
+
 *Per ticket*
+
 
 W: Weekdays(Mon-Fri):
 
@@ -20,13 +23,16 @@ W: Weekdays(Mon-Fri):
 
   C: RM 201
   
+  
 OR
+  
   
 O: Others(Sat-Sun)/Holidays:
 
   T: RM 112
 
   C: RM 223
+
 
 Additional People:
 
