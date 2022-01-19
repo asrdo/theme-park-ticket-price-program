@@ -1,6 +1,7 @@
 # Theme Park Ticket Trice Program
 This program calculates the ticket prices for a Malaysian theme park.
-# Procedural_programming
+
+- Procedural programming code
 
 
 The program adheres to the following pricing system:
